@@ -7,7 +7,7 @@ Plagiarism is the representation of another author's language, thoughts, ideas, 
 ## Multiple submissions
 One author submitted the same research result to multiple conferences or journals. Manuscripts submitted under review will be considered as multiple submissions.
 
-# Sch{\"o}n Scandal
+# Schön Scandal
 In 1997, Jan Hendrik Sch{\"o}n joined the bell lab. He used the same set of data to publish multiple papers in succession. What's more,he used mathematical formulas to transform the same set of experimental data. Some data violated the basic physical theorem. Academic misconduct mainly includes three categories: Data Substitution, Unrealistic Precision, Contradictory Physics.
 
 # Homework URL
