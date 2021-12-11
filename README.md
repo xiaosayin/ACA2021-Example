@@ -14,3 +14,6 @@ In 1997, Jan Hendrik Sch{\"o}n joined the bell lab. He used the same set of data
 
 ## LATEX 
 https://latex.sjtu.edu.cn/project/61ad744fb8e6fc009c9e295f
+
+# References
+[1] Wikipedia contributors.  Plagiarism — Wikipedia, the free encyclopedia,2021. [Online; accessed 6-December-2021]
